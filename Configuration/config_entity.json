@@ -1,0 +1,20 @@
+{
+    "Player": {
+        "sprite": "Player",
+        "x": 110,
+        "y": 10,
+        "width": 35,
+        "height": 26,
+        "scale": [2, 2],
+        "component": ["Move"]
+    },
+    "Ally": {
+        "sprite": "Ally",
+        "x": 0,
+        "y": 0,
+        "width": 35,
+        "height": 26,
+        "scale": [2, 2],
+        "component": ["Move", "Collidable", "Movable"]
+    }
+}

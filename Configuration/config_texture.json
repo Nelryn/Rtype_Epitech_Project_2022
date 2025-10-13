@@ -1,0 +1,5 @@
+{
+    "Map": "assets/map/map.png",
+    "Player": "assets/sprite.png",
+    "Ally": "assets/sprite.png"
+}

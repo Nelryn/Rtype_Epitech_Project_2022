@@ -1,0 +1,17 @@
+/*
+** EPITECH PROJECT, 2022
+** TGG
+** File description:
+** EnumHash
+*/
+
+#pragma once
+
+struct EnumHash
+{
+    template <typename T>
+    std::size_t operator()(T t) const
+    {
+        return static_cast<std::size_t>(t);
+    }
+};

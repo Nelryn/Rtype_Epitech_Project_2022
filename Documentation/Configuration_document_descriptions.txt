@@ -1,0 +1,12 @@
+Configuration documentaion
+
+
+
+Summary:
+
+1. Introduction
+2. Window
+3. Background
+4. Player
+5. Enemy
+6. Map

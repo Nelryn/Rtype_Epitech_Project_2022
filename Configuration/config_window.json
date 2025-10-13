@@ -1,0 +1,9 @@
+{
+    "name": "r-type",
+    "width": 1024,
+    "height": 720,
+    "framelimit": 60,
+    "online": "True",
+    "ip": "127.0.0.1",
+    "port": "4242"
+}
